@@ -1,6 +1,10 @@
 # MoneyWhere
 App that keeps track of your subscriptions
 
+# Architecture (For now)
+![Architecture Image](<Architecture Designing\archi.png>)
+
+
 # Services
 ** Keep in mind this is a MVP so it may not convolve to production standard frameworks :)
 ## Atomic
