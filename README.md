@@ -2,7 +2,8 @@
 App that keeps track of your subscriptions
 
 # Architecture (For now)
-![Architecture Image](<Architecture Designing\archi.png>)
+<img width="2001" height="921" alt="archi" src="https://github.com/user-attachments/assets/2187ec17-c69c-46cd-8865-55b645d78e6a" />
+
 
 
 # Services
